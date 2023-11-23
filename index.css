@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: PT Sans, Calibri, sans-serif;
+  }
+}
+
+/* .logo {
+  width: 50px;
+}
+
+.header-section {
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-bar {
+  display: flex;
+  padding-right: 20px;
+}
+
+.contact {
+  padding: 0px 10px 0px 10px;
+}
+
+.home {
+  padding: 0px 10px 0px 10px;
+}
+
+.card {
+  margin-top: 50px;
+  width: 150px;
+  height: 300px;
+  margin-right: 25px;
+  margin-left: 40px;
+}
+
+.card-img {
+  width: 150px;
+}
+
+.name {
+  margin-top: -5px;
+  margin-bottom: -10px;
+}
+
+.rating {
+  margin-bottom: -10px;
+}
+
+.footer {
+  margin-top: 100px;
+}
+
+.restaurant-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.empty-card {
+  margin-top: 50px;
+  width: 150px;
+  height: 200px;
+  margin-right: 25px;
+  margin-left: 40px;
+  background-color: rgb(176, 174, 174);
+}
+
+.clone {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.thumbnail {
+  width: 150px;
+}
+
+.img-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+  justify-content: space-evenly;
+}
+
+.menu-container {
+  width: 150px;
+}
+
+.home-link {
+  text-decoration: none;
+  color: black;
+} */
