@@ -43,8 +43,7 @@ function Body() {
           data-testid="search-btn"
           className=" p-2 px-4 bg-gray-700 text-white rounded-md hover:shadow-md max-sm:hidden hover:bg-gray-950"
           onClick={() => {
-            const data = filterData(searchText, allRestaurants);
-            setFilteredRestaurants(data);
+            setSearchText(searchText);
           }}
         >
           Search
