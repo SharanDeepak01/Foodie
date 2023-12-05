@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 const Footer = () => {
   return (
-    <div className="flex justify-around bg-black text-white font-Arvo px-5 pt-12">
+    <div className="flex justify-around bg-black text-white font-Arvo px-5 pt-12 h-96">
       <div>
         <h1 className="my-4 text-[#9e9a9a] font-bold">COMPANY</h1>
         <ul className="cursor-pointer">

@@ -19,7 +19,7 @@ const Header = () => {
   const cartItems = useSelector((store) => store.cart.items);
 
   return (
-    <div className="flex justify-between items-center shadow-md bg-white fixed top-0 left-0 right-0">
+    <div className="flex justify-between items-center shadow-md bg-white fixed z-10 top-0 left-0 right-0">
       <Title />
 
       <div className="flex">
